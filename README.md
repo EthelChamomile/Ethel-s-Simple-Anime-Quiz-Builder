@@ -1,6 +1,9 @@
 # Ethel-s-Simple-Anime-Quiz-Builder
 Easy tool to make simple Anime Quiz World in VRChat
 
+If you're confused about how to download from GitHub, download here instead:
+https://drive.google.com/file/d/1xqGqvEXD1Rhrz8gvHKPa54cLdSQgA0vX/view?usp=sharing
+
 HOW TO GET:
 1. Download the .rar file.
 2. Extract it somewhere.
